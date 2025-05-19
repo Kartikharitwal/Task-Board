@@ -1,5 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
-
+    const API_URL = 'https://task-board-backend-9ig9.onrender.com/api';
 // Fetch all tasks
 export const fetchTasks = async () => {
   try {
