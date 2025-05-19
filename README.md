@@ -120,4 +120,5 @@ https://dainty-faun-7c704f.netlify.app/
 *(Remember to update the `frontend/src/services/api.js` file in your code to point to your deployed backend URL before deploying the frontend.)*
 
 ## Demo Video
+https://go.screenpal.com/watch/cThqo8n6QCC
 
